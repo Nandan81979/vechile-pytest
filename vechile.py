@@ -6,8 +6,6 @@ def vehicle_info(vehicle_number, owner_name, vehicle_type, year_of_manufacture):
         f"Year of Manufacture: {year_of_manufacture}"
     )
     return result
-
-
 def main():
     vehicle_number = "KA27EJ0147"
     owner_name = "Nandan"
